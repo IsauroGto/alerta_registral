@@ -1,0 +1,1 @@
+ /Users/informatica/Documents/Flutter/alerta_registral/.dart_tool/flutter_build/98371bb2a0d503b8e644579a16f7e823/native_assets.yaml: 
